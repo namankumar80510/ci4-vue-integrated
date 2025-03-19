@@ -1,4 +1,6 @@
-# CodeIgniter 4 Application Starter
+# CodeIgniter 4 Backend APIs + Vue Frontend
+
+**INFO**: This is a simple example of how you can easily integrate vue with codeigntier4 without having two separate repos for frontend and backend; the route /(:any) loads a view file which is the entry point for your vue frontend. CI4 will handle all routing.
 
 ## What is CodeIgniter?
 
